@@ -7,7 +7,7 @@ For the workshop, you will be provided an account on our JupyterHub server. Simp
 ## Clone This Repo
 To get the code contained in this repo, follow these steps:
 * From the JupyterHub landing page, click "New" > "Terminal". This will open a command line.
-* In the command line, type:
+* In the command line, type or paste the snippet below. Tip: Use Shift-Insert to paste in this command line, Ctrl-V will not work!
 ```
 git clone https://github.com/DannyGsGit/IntroToMLLab.git
 ```
